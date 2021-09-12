@@ -6,7 +6,7 @@
 4-npm install @reduxjs/toolkit
 4.1-npm install axios
  4.2-npm install lowdb
-
+npm install json-server --save-dev
 5-npm install redux-persist 
 5.1-npm i memoizee
 5.2-npm install reselect
@@ -55,7 +55,7 @@
 
 20-npm run start
 20.1-json-server --watch db.json
-
+npm install -g serve
 work
 21-npm run build 
 22-npm run deploy
